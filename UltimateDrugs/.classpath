@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/craftbukkit-1.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/Jobs4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/mcMMO2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/Citizens.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/CrackShot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/worldedit-bukkit-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tskz/Desktop/worldguard-bukkit-7.0.3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
